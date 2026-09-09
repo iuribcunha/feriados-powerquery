@@ -55,4 +55,4 @@ O arquivo `feriados.m` contém a implementação completa. A estrutura é:
 
 ---
 
-*Algoritmo da Páscoa: [Wikipedia — Date of Easter](https://en.wikipedia.org/wiki/Date_of_Easter)*
+*Algoritmo da Páscoa: [Wikipedia - Date of Easter](https://en.wikipedia.org/wiki/Date_of_Easter)*
